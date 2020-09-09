@@ -85,3 +85,8 @@ Telegram: https://t.me/TaoToken
 Email: thiaoouba918@gmail.com
 
 We welcome more people to participate in this project in various forms, investors, developers, marketman.  Thanks!
+
+
+
+[中文版](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E4%BB%8B%E7%BB%8D.md)
+

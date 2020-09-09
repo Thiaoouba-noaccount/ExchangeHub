@@ -4,11 +4,11 @@
 
 [背景](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E4%BB%8B%E7%BB%8D.md#背景)
 
-[TAO 代币合约和众筹](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E4%BB%8B%E7%BB%8D.md#TAO 代币合约和众筹)
+[TAO 代币合约和众筹](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E4%BB%8B%E7%BB%8D.md#TAO-代币合约和众筹)
 
 [项目进度安排](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E4%BB%8B%E7%BB%8D.md#项目进度安排)
 
-[TAO 技术资料和交流](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E4%BB%8B%E7%BB%8D.md#TAO 技术资料和交流)
+[TAO 技术资料和交流](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81%E4%BB%8B%E7%BB%8D.md#TAO-技术资料和交流)
 
 
 
