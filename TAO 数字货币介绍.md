@@ -71,9 +71,9 @@ TAO 代币合约地址：
 
 ## TAO 技术资料和交流
 
-无账户加密货币交易系统白皮书
+[无账户加密货币交易系统白皮书](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/doc/%E6%97%A0%E8%B4%A6%E6%88%B7%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%99%BD%E7%9A%AE%E4%B9%A6.md)
 
-去中心化支付宝或paypal白皮书
+[去中心化支付宝或paypal白皮书](https://github.com/Thiaoouba-noaccount/DecentralizedPaypal/blob/master/doc/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E6%94%AF%E4%BB%98%E5%AE%9D%E6%88%96paypal.md)
 
 
 
