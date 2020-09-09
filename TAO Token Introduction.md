@@ -76,7 +76,7 @@ Non Account Crypto Trading System integration and validation: 2022-3-31 launch o
 
 [Non Account Crypto Trading System white paper](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/doc/non%20account%20Crypto%20trading%20system.md)
 
-Decentralized paypal  white paper
+[Decentralized paypal  white paper](https://github.com/Thiaoouba-noaccount/DecentralizedPaypal/blob/master/doc/Decentralized%20Alipay.md)
 
 
 
