@@ -4,11 +4,11 @@
 
 [Background](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#Background)
 
-[TAO Token Contract and Crowdfunding](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#TAO Token Contract and Crowdfunding)
+[TAO Token Contract and Crowdfunding](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#TAO-Token-Contract-and-Crowdfunding)
 
-[Project Milestone](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#Project Milestone)
+[Project Milestone](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#Project-Milestone)
 
-[TAO Technical documents and discussion](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#TAO Technical documents and discussion)
+[TAO Technical documents and discussion](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#TAO-Technical-documents-and-discussion)
 
 
 
@@ -36,7 +36,7 @@ The initial total supply of tokens is 166,666,666 TAOs, of which 100,000,000 wil
 
 
 
-After the crowdfunding, the token will join uniswap for trading. If it is sold out early in the pre-sale stage, it will enter uniswap trading in advance. Let the market determine the value of this project. Hope investors hoard coins instead of speculating coins.
+After the crowdfunding, the token will be listed in Uniswap for trading. If it is sold out early in the pre-sale stage, it will enter Uniswap trading in advance. Let the market determine the value of this project. Hope investors hoard coins instead of speculating coins.
 
 
 
@@ -74,7 +74,7 @@ Non Account Crypto Trading System integration and validation: 2022-3-31 launch o
 
 ## TAO Technical documents and discussion
 
-Non Account Crypto Trading System white paper
+[Non Account Crypto Trading System white paper](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/doc/non%20account%20Crypto%20trading%20system.md)
 
 Decentralized paypal  white paper
 
