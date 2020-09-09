@@ -2,13 +2,13 @@
 
 
 
-Background
+[Background](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#Background)
 
-TAO Token Contract and Crowdfunding
+[TAO Token Contract and Crowdfunding](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#TAO Token Contract and Crowdfunding)
 
-Project Milestone
+[Project Milestone](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#Project Milestone)
 
-TAO Technical documents and discussion
+[TAO Technical documents and discussion](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/TAO%20Token%20Introduction.md#TAO Technical documents and discussion)
 
 
 
