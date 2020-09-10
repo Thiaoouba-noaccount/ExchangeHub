@@ -18,13 +18,15 @@
 
 
 
-The name 'TAO'  derives from a story about aliens. It is a management token in the "Non Account Crypto Trading System (see [white paper](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/doc/non%20account%20Crypto%20trading%20system.md))" and "Decentralized Alipay and Paypal (see [white paper](https://github.com/Thiaoouba-noaccount/DecentralizedPaypal/blob/master/doc/Decentralized%20Alipay.md))". It started in the past few years. We initiated a hackathon project that integrated cryptocurrency exchanges. We originally wanted to attract some like-minded friends to discuss the blockchain technology. But people like gambling more than technology. Many of them asked me which exchange they can sign up with and how to open an account. Some of them have already traded in the cryptocurrency exchanges, but they still feel embarrassed by the low traffic of many exchanges. This kind of demand has caused me to think that if there is a system that can provide cryptocurrency trading, while people do not need to go to any centralized exchange for cumbersome KYC certification, and repeatedly upload their various private information, ID cards, Medicare cards, and mobile phone numbers, passports, etc.  You only need a  wallet to do all the transactions. With our in-depth research on how to implement this system, we found that there is an increasing demand for a decentralized arbitration system. For the blockchain system, its soul is the support of the community. We have introduced TAO, a management token, as an economic stimulus and reward for participating contributors. This management token rewards those who contribute to "Non Account Crypto Trading System" and "Decentralized Alipay and Paypal".
+The name 'TAO'  derives from a story about aliens. It is a management token in the "Non Account Crypto Trading System (see [white paper](https://github.com/Thiaoouba-noaccount/ExchangeHub/blob/master/doc/non%20account%20Crypto%20trading%20system.md))" and "Decentralized Alipay and Paypal (see [white paper](https://github.com/Thiaoouba-noaccount/DecentralizedPaypal/blob/master/doc/Decentralized%20Alipay.md))". The idea started in the past few years when we initiated a hackathon project that integrated cryptocurrency exchanges. We originally wanted to attract some like-minded friends to join the blockchain technology. But people like gambling more than technology. Many of them asked me which exchange they can sign up with and how to open an account. Some of them have already traded in the cryptocurrency exchanges, but they still feel annoyed by the low traffic of many exchanges. This demand has caused us to think that if there is a system that can provide cryptocurrency trading, while people do not need to go to any centralized exchange for cumbersome KYC certification, and repeatedly upload their various private information, ID cards, Medicare cards, and mobile phone numbers, passports, etc.  You only need a  wallet to do all the transactions. With our in-depth research on how to implement this system, we found that there is an increasing requirement for a decentralized arbitration system. 
+
+For the blockchain system, its soul is the support of the community. We have introduced TAO, a management token, as an economic stimulus and reward for participating contributors. This management token rewards those who contribute to "Non Account Crypto Trading System" and "Decentralized Alipay and Paypal".
 
 
 
 ## TAO Token Contract and Crowdfunding
 
-The TAO token contract fully complies with Ethereum's ERC20 token specification. It defines the token name as "Thiaoouba", the token code "TAO", and the decimal point is 18.
+The TAO token contract fully complies with Ethereum's ERC20 token specification. It defines the token name as "Thiaoouba", the token code "TAO", and the decimal is 18.
 
 
 
@@ -36,11 +38,11 @@ The initial total supply of tokens is 166,666,666 TAOs, of which 100,000,000 wil
 
 
 
-After the crowdfunding, the token will be listed in Uniswap for trading. If it is sold out early in the pre-sale stage, it will enter Uniswap trading in advance. Let the market determine the value of this project. Hope investors hoard coins instead of speculating coins.
+After the crowdfunding, the token will be listed in Uniswap for trading. If it is sold out early in the pre-sale stage, it will enter Uniswap trading stage in advance. It will let the market to determine the value of this project. Hope investors hoard coins instead of speculating coins.
 
 
 
-Crowdfunding funds are used to further develop and expand the system, and it is also used to repurchase tokens from the market at a certain time. The remaining part of TAO tokens will be used as rewards for intermediaries participating in the "No Account Trading System" and arbitrators of "Decentralized Alipay". During the operation of the system, half a year before all TAO rewards are used up, the community composed of all TAO holders will decide whether to buy back TAO from the market to reward contributors or use the revenue generated by the system to generate TAO to reward contributors. This policy determines the limited supply of TAO.
+Crowdfunding funds are used to further develop and expand the system, and it is also used to repurchase tokens from the market at a certain time. The remaining part of TAO tokens will be used as rewards for intermediaries participating in the "No Account Trading System" and arbitrators of "Decentralized Alipay". During the operation of the system, half a year before all TAO rewards are used up, the community composed of all TAO holders will decide whether to buy back TAO from the market to reward contributors or use the revenue generated by the system to create TAO to reward contributors. This policy determines the limited supply of TAO.
 
 
 
