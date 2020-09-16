@@ -46,9 +46,9 @@ Crowdfunding funds are used to further develop and expand the system, and it is 
 
 
 
-The crowdfunding contract address:
+The crowdfunding contract address:  0xfD0aAFF589e7Cc0F8E57592C001338f83e950BeE
 
-The token contract address:
+The token contract address: 0xA8773F9210A97be70791c2572E9204879a7428E7
 
  
 
