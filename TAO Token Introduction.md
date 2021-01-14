@@ -82,7 +82,7 @@ Non Account Crypto Trading System integration and validation: 2022-3-31 launch o
 
 
 
-Telegram: https://t.me/TaoToken918
+Telegram: https://t.me/depaytao
 
 Twitter: @Thiaoouba918
 
