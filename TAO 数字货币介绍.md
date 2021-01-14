@@ -77,7 +77,7 @@ TAO 代币合约地址： [0xA8773F9210A97be70791c2572E9204879a7428E7](https://e
 
 
 
-Telegram: https://t.me/TaoToken918
+Telegram: https://t.me/depaytao
 
 Twitter: @Thiaoouba918
 
